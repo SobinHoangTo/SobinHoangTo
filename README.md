@@ -3,7 +3,7 @@
 <h2 align="center">  Hi there, I'm Piggy 👋</h2>
 <p align="center">
     <a href="https://github.com/SunoBB/github-badges">
-        <img title="Last commit Readme's" alt="Piggy's Badge" src="https://img.shields.io/github/last-commit/Haniki2k4/Haniki2k4?&style=for-the-badge&color=0786f5&logoColor=03060a&labelColor=0029b0"/>
+        <img title="Last commit Readme's" alt="Piggy's Badge" src="https://img.shields.io/github/last-commit/Sobinhoangto/Sobinhoangto?&style=for-the-badge&color=0786f5&logoColor=03060a&labelColor=0029b0"/>
 
 </a>
 </p>
@@ -18,7 +18,7 @@
 ## 🌐 Socials:
 <p align="center">
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Piggy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/haniki2k4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Piggy" height="30" width="40" /></a>
+<a href="https://linkedin.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Piggy" height="30" width="40" /></a>
 <a href="https://www.facebook.com/soobinHoangto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Piggy" height="30" width="40" /></a>
 <a href="https://www.instagram.com/soobin_hoangto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Piggy" height="30" width="40" /></a>
 <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Piggy" height="30" width="40" /></a>
